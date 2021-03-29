@@ -1,0 +1,22 @@
+{
+"name": "PhanNhatQuy/backend",
+"description": "Create text",
+"keywords": [
+],
+"authors": [
+{
+"name": "PhanNhatQuy",
+"email": "phannhatquy.tdc2019@gmail.com",
+"homepage": "http://PhanNhatQuy.com"
+}
+],
+"license": "MIT",
+"require": {
+},
+"autoload": {
+"psr-4": {
+"PhanNhatQuy\\Backend\\": "/"
+}
+},
+"minimum-stability": "dev"
+}
