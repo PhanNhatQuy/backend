@@ -1,13 +1,13 @@
 {
-"name": "PhanNhatQuy/backend",
+"name": "phannhatquy/backend",
 "description": "Create text",
 "keywords": [
 ],
 "authors": [
 {
-"name": "PhanNhatQuy",
+"name": "phannhatquy",
 "email": "phannhatquy.tdc2019@gmail.com",
-"homepage": "http://PhanNhatQuy.com"
+"homepage": "http://phannhatquy.com"
 }
 ],
 "license": "MIT",
@@ -15,7 +15,7 @@
 },
 "autoload": {
 "psr-4": {
-"PhanNhatQuy\\Backend\\": "/"
+"phannhatquy\\backend\\": "/"
 }
 },
 "minimum-stability": "dev"
